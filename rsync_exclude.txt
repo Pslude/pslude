@@ -1,5 +1,0 @@
-.idea
-announce.py
-scrape.py
-rsync_exclude.txt
-deploy.sh
